@@ -1,4 +1,4 @@
-TOKEN = '6732756658:AAH0o3U9ur5owNN7DzLrXA68uLWKXx5wj6o'
+TOKEN = """ Здесь хранится токен """
 
 keys = {
     'Доллар': 'USD',
